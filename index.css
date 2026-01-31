@@ -16,3 +16,10 @@ html {
   left: 0;
   width: 100%;
 }
+
+.sun {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: yellow;
+}
